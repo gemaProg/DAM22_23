@@ -16,6 +16,7 @@ public class ProyectoGitHub1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello desde Netbeans, aula smr1");
+        System.out.print("Hola desde Intellij, aula smr1");
     
     }
     
